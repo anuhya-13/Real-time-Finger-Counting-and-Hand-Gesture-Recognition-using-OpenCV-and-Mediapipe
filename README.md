@@ -1,0 +1,1 @@
+# Real-time-Finger-Counting-and-Hand-Gesture-Recognition-using-OpenCV-and-Mediapipe
